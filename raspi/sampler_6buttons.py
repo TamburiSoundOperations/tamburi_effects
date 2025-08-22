@@ -6,12 +6,12 @@ import os
 
 # Mappa GPIO -> file audio (modifica i nomi se vuoi)
 BUTTON_SOUNDS = {
-    17: "sample1.wav",
-    27: "sample2.wav",
-    22: "sample3.wav",
-    5:  "sample4.wav",
-    6:  "sample5.wav",
-    13: "sample6.wav",
+    17: "sounds/Jah Shaka - Jah Shaka answers - 01 1.wav",
+    27: "sounds/Jah Shaka - Jah Shaka answers - 02 2.wav",
+    22: "sounds/Jah Shaka - Jah Shaka answers - 03 3.wav",
+    5:  "sounds/Jah Shaka - Jah Shaka answers - 04 4.wav",
+    6:  "sounds/Jah Shaka - Jah Shaka answers - 05 5.wav",
+    13: "sounds/Jah Shaka - Jah Shaka answers - 06 6.wav",
 }
 
 # Impostazioni
